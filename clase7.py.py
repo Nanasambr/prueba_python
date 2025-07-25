@@ -16,3 +16,4 @@ resultado=suma//3
 
 print("el promedio de los tres numeros es", resultado)
 
+
