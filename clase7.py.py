@@ -15,3 +15,4 @@ suma=numero1+numero2+numero3
 resultado=suma//3
 
 print("el promedio de los tres numeros es", resultado)
+
